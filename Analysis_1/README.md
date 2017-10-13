@@ -1,3 +1,5 @@
+# SQL Mini Project I: Investigating a Drop in User Engagement
+
 This is a mini project from modeanalytics.com in order to practice SQL skills. The descrption of the question can be found here:
 https://community.modeanalytics.com/sql/tutorial/a-drop-in-user-engagement/
 
